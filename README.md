@@ -8,7 +8,7 @@ composer install
 
 cp .env.example .env
 
-php arisan key:generate
+php artisan key:generate
 
 edit .env
 
