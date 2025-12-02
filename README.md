@@ -4,7 +4,7 @@ A blog management system built with Laravel as the backend (REST API) and a resp
 
  # Installation
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/Laravel-Blog.git
+
 cd Laravel-Blog
 
 2️⃣ Install Dependencies
